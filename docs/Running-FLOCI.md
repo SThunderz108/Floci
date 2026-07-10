@@ -8,8 +8,9 @@
 
 3. Now run docker compose
   
+   ```bash
    [ubuntu@jump01]$docker compose up -d
-
+   ```
 Note : It will spawn 2 docker containers Floci & Floci-Ui 
 
 4. Verify docker containers using below command, you should see similar output.
