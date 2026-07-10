@@ -8,7 +8,7 @@
 
 3. Now run docker compose
   
-   docker compose up -d
+   docker compose up -d \n
    [+] up 0/1
    [+] up 1/2ner floci-ui Creating                                                                                                                                                                                                                                                        0.0 ✔ Container floci-ui Created                                                                                                                                                                                                                                                         0.1[+] up 1/2
     ✔ Container floci-ui Created                                                                                                                                                                                                                                                         0.1[+] up 1/2
