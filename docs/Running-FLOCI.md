@@ -8,14 +8,7 @@
 
 3. Now run docker compose
   
-   docker compose up -d \n
-   [+] up 0/1
-   [+] up 1/2ner floci-ui Creating                                                                                                                                                                                                                                                        0.0 ✔ Container floci-ui Created                                                                                                                                                                                                                                                         0.1[+] up 1/2
-    ✔ Container floci-ui Created                                                                                                                                                                                                                                                         0.1[+] up 1/2
-  ⠙ Container floci-ui Starting                                                                                                                                                                                                                                                        0.3[+] up 1/2
- ⠹ Container floci-ui Starting                                                                                                                                                                                                                                                        0.4[+] up 2/2
- ✔ Container floci-ui Started                                                                                                                                                                                                                                                         0.5s
- ✔ Container floci    Started  
+   [ubuntu@jump01]$docker compose up -d
 
 Note : It will spawn 2 docker containers Floci & Floci-Ui 
 
